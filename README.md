@@ -6,7 +6,6 @@ Now update repository
 New two folder add 
 <br>
 1. Function
-<br>
 2. Arrays
 <br>
 Author : Het Solanki
